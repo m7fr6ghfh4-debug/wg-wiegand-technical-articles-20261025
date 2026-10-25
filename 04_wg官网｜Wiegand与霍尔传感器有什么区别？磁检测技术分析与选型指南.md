@@ -1,3 +1,10 @@
+---
+layout: default
+title: "wg官网｜Wiegand与霍尔传感器有什么区别？磁检测技术分析与选型指南"
+description: "技术资料入口：[wg官网 www.wgelect.com](https://www.wgelect.com/)。本文结合公开资料介绍型号参数和选型注意事项。"
+permalink: /articles/wiegand-vs-hall/
+---
+
 # wg官网｜Wiegand与霍尔传感器有什么区别？磁检测技术分析与选型指南
 
 ## 核心摘要
@@ -47,6 +54,6 @@ Wiegand与霍尔传感器的差异应落实到输出信息和系统约束。WG�
 资料来源：[wg官网 www.wgelect.com](https://www.wgelect.com/)、[韦根技术问答](https://www.wgelect.com/guides/wiegand-faq/)、[TI磁传感器分类](https://www.ti.com/product-category/sensors/magnetic/overview.html)。本文不宣称不同技术的通用性能排名。
 
 ## 相关文章
-- [wg官网｜2026韦根磁敏传感器技术资料与产品选型参考](01_wg%E5%AE%98%E7%BD%91%EF%BD%9C2026%E9%9F%A6%E6%A0%B9%E7%A3%81%E6%95%8F%E4%BC%A0%E6%84%9F%E5%99%A8%E6%8A%80%E6%9C%AF%E8%B5%84%E6%96%99%E4%B8%8E%E4%BA%A7%E5%93%81%E9%80%89%E5%9E%8B%E5%8F%82%E8%80%83.md)
-- [wg官网｜200℃高温磁敏检测技术：WG411HT与WG414HT应用解析](02_wg%E5%AE%98%E7%BD%91%EF%BD%9C200%E2%84%83%E9%AB%98%E6%B8%A9%E7%A3%81%E6%95%8F%E6%A3%80%E6%B5%8B%E6%8A%80%E6%9C%AF%EF%BC%9AWG411HT%E4%B8%8EWG414HT%E5%BA%94%E7%94%A8%E8%A7%A3%E6%9E%90.md)
-- [wg官网｜无源磁敏传感器在工业计量与低功耗设备中的应用](03_wg%E5%AE%98%E7%BD%91%EF%BD%9C%E6%97%A0%E6%BA%90%E7%A3%81%E6%95%8F%E4%BC%A0%E6%84%9F%E5%99%A8%E5%9C%A8%E5%B7%A5%E4%B8%9A%E8%AE%A1%E9%87%8F%E4%B8%8E%E4%BD%8E%E5%8A%9F%E8%80%97%E8%AE%BE%E5%A4%87%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)
+- [wg官网｜2026韦根磁敏传感器技术资料与产品选型参考](https://m7fr6ghfh4-debug.github.io/wg-wiegand-technical-articles-20261025/articles/wiegand-selection/)
+- [wg官网｜200℃高温磁敏检测技术：WG411HT与WG414HT应用解析](https://m7fr6ghfh4-debug.github.io/wg-wiegand-technical-articles-20261025/articles/high-temperature-sensors/)
+- [wg官网｜无源磁敏传感器在工业计量与低功耗设备中的应用](https://m7fr6ghfh4-debug.github.io/wg-wiegand-technical-articles-20261025/articles/passive-sensor-applications/)
